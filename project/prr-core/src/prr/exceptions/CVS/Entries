@@ -1,0 +1,13 @@
+/ClientExistsException.java/1.1/Wed Oct 19 23:05:24 2022//
+/ImportFileException.java/1.1/Wed Sep 14 16:51:38 2022//
+/InvalidTerminalException.java/1.1/Wed Oct 19 23:05:24 2022//
+/MissingFileAssociationException.java/1.1/Wed Sep 14 16:51:38 2022//
+/NoCommunicationException.java/1.1/Wed Nov  2 00:38:00 2022//
+/NotificationsAlreadyOffException.java/1.1/Mon Oct 31 17:52:08 2022//
+/NotificationsAlreadyOnException.java/1.1/Mon Oct 31 17:52:08 2022//
+/TerminalExistsException.java/1.1/Wed Oct 19 23:05:24 2022//
+/UnavailableFileException.java/1.2/Sat Oct  1 17:34:11 2022//
+/UnknownClientException.java/1.1/Wed Oct 19 23:05:24 2022//
+/UnknownTerminalException.java/1.1/Wed Oct 19 23:05:24 2022//
+/UnrecognizedEntryException.java/1.2/Wed Sep 14 17:39:54 2022//
+D
